@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj",
+        "projectName": "Receive",
+        "projectPath": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj",
+        "packagesPath": "C:\\Users\\IsaiasNas\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IsaiasNas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://webeasy.pkgs.visualstudio.com/_packaging/EasyInfo/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
