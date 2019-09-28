@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj": {}
+    "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj": {}
   },
   "projects": {
-    "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj": {
+    "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj",
+        "projectUniqueName": "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj",
         "projectName": "Send",
-        "projectPath": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj",
+        "projectPath": "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\Send.csproj",
         "packagesPath": "C:\\Users\\IsaiasNas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\obj\\",
+        "outputPath": "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Send\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

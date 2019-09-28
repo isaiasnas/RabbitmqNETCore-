@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj": {}
+    "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj": {}
   },
   "projects": {
-    "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj": {
+    "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj",
+        "projectUniqueName": "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj",
         "projectName": "Receive",
-        "projectPath": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj",
+        "projectPath": "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\Receive.csproj",
         "packagesPath": "C:\\Users\\IsaiasNas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\obj\\",
+        "outputPath": "C:\\Users\\IsaiasNas\\source\\repos\\Rabbitmq\\Receive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
